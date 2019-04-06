@@ -1,0 +1,11 @@
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\netcoreapp2.2\CrosswordPuzzle.deps.json
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\netcoreapp2.2\CrosswordPuzzle.runtimeconfig.json
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\netcoreapp2.2\CrosswordPuzzle.runtimeconfig.dev.json
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\netcoreapp2.2\CrosswordPuzzle.dll
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\netcoreapp2.2\CrosswordPuzzle.pdb
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.AssemblyInfoInputs.cache
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.AssemblyInfo.cs
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.dll
+C:\Users\taigrom bueno\source\repos\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\netcoreapp2.2\CrosswordPuzzle.pdb
